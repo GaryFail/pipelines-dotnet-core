@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pipelines-dotnet-core", "src\pipelines-dotnet-core.csproj", "{1A9642CC-2CBF-4783-9CD9-917FD44B4F22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "tests\UnitTests\UnitTests.csproj", "{9DEB0EE2-8B53-43E9-B0CD-586D814221B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "tests\unit-tests\UnitTests.csproj", "{9DEB0EE2-8B53-43E9-B0CD-586D814221B0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6FECE20C-6D8D-40F3-BBCE-543E9DDD4D08}"
 EndProject
