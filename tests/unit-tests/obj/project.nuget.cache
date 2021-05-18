@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "u/Fx0lK4hDsnPCajAsuX0T9XLnyG1Fh6eNjXBhuV5sntrt4rNOXqmEDmcOd/XGs41EQaSJ23cDe3+5tSxkU91Q==",
+  "dgSpecHash": "GbdDfmG9dAhgQntpJJfbSYHaOb0GLh/YUkaPRAMiZXHnsdnKPsCFSYotNM+ZXSWcy0fupi3NOzUdyZ3EMe+quw==",
   "success": true,
-  "projectFilePath": "c:\\Programming\\pipelines-dotnet-core\\tests\\unit-tests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Programming\\pipelines-dotnet-core\\tests\\unit-tests\\UnitTests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\garyfail\\.nuget\\packages\\coverlet.msbuild\\3.0.3\\coverlet.msbuild.3.0.3.nupkg.sha512",
     "C:\\Users\\garyfail\\.nuget\\packages\\microsoft.codecoverage\\16.8.0\\microsoft.codecoverage.16.8.0.nupkg.sha512",
     "C:\\Users\\garyfail\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\garyfail\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
