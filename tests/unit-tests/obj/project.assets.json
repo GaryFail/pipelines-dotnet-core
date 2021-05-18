@@ -1232,6 +1232,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "pipelines-dotnet-core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/pipelines-dotnet-core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/pipelines-dotnet-core.dll": {}
+        }
       }
     }
   },
@@ -4679,6 +4689,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "pipelines-dotnet-core/1.0.0": {
+      "type": "project",
+      "path": "../../src/pipelines-dotnet-core.csproj",
+      "msbuildProject": "../../src/pipelines-dotnet-core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4686,7 +4701,8 @@
       "Microsoft.NET.Test.Sdk >= 16.8.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
-      "coverlet.msbuild >= 3.0.3"
+      "coverlet.msbuild >= 3.0.3",
+      "pipelines-dotnet-core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4721,7 +4737,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Programming\\pipelines-dotnet-core\\src\\pipelines-dotnet-core.csproj": {
+              "projectPath": "C:\\Programming\\pipelines-dotnet-core\\src\\pipelines-dotnet-core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

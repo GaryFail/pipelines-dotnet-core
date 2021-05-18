@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GbdDfmG9dAhgQntpJJfbSYHaOb0GLh/YUkaPRAMiZXHnsdnKPsCFSYotNM+ZXSWcy0fupi3NOzUdyZ3EMe+quw==",
+  "dgSpecHash": "gb+XTS9+SAlTkKOj8XmUSyfWf76BpK9R5ouz+TGv4xTEh1p+28ip6XdA7yv4Dygm3fD3vAieprm+gTleGGfZPQ==",
   "success": true,
   "projectFilePath": "C:\\Programming\\pipelines-dotnet-core\\tests\\unit-tests\\UnitTests.csproj",
   "expectedPackageFiles": [
