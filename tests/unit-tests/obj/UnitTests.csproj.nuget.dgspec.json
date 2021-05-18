@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programming\\pipelines-dotnet-core\\tests\\UnitTests\\UnitTests.csproj": {}
+    "c:\\Programming\\pipelines-dotnet-core\\tests\\unit-tests\\UnitTests.csproj": {}
   },
   "projects": {
-    "c:\\Programming\\pipelines-dotnet-core\\tests\\UnitTests\\UnitTests.csproj": {
+    "c:\\Programming\\pipelines-dotnet-core\\tests\\unit-tests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programming\\pipelines-dotnet-core\\tests\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "c:\\Programming\\pipelines-dotnet-core\\tests\\unit-tests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "c:\\Programming\\pipelines-dotnet-core\\tests\\UnitTests\\UnitTests.csproj",
+        "projectPath": "c:\\Programming\\pipelines-dotnet-core\\tests\\unit-tests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\garyfail\\.nuget\\packages\\",
-        "outputPath": "c:\\Programming\\pipelines-dotnet-core\\tests\\UnitTests\\obj\\",
+        "outputPath": "c:\\Programming\\pipelines-dotnet-core\\tests\\unit-tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,7 +47,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.5.0, )"
+              "version": "[16.8.0, )"
             },
             "NUnit": {
               "target": "Package",
