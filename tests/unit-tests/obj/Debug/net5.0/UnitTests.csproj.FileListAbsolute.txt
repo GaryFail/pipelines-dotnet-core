@@ -197,3 +197,13 @@ c:\Programming\pipelines-dotnet-core\tests\unit-tests\obj\Debug\net5.0\ref\UnitT
 c:\Programming\pipelines-dotnet-core\tests\unit-tests\obj\Debug\net5.0\UnitTests.pdb
 c:\Programming\pipelines-dotnet-core\tests\unit-tests\obj\Debug\net5.0\UnitTests.genruntimeconfig.cache
 c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\testhost.exe
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\CoverletSourceRootsMapping
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\pipelines-dotnet-core.Views.dll
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\pipelines-dotnet-core.Views.pdb
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\pipelines-dotnet-core.deps.json
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\pipelines-dotnet-core.runtimeconfig.json
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\pipelines-dotnet-core.runtimeconfig.dev.json
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\appsettings.Development.json
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\appsettings.json
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\pipelines-dotnet-core.dll
+c:\Programming\pipelines-dotnet-core\tests\unit-tests\bin\Debug\net5.0\pipelines-dotnet-core.pdb

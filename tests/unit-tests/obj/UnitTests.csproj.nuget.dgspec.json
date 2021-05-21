@@ -17,6 +17,7 @@
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Programming\\pipelines-dotnet-core\\NuGet.Config",
           "C:\\Users\\garyfail\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -25,9 +26,7 @@
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Programming\\Blazor\\Enterprise\\04\\demos\\start\\blazor-enterprise\\NuGet": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://pkgs.dev.azure.com/garyfail/pluralsight/_packaging/Gary_Feed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -90,6 +89,7 @@
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Programming\\pipelines-dotnet-core\\NuGet.Config",
           "C:\\Users\\garyfail\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -98,9 +98,7 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Programming\\Blazor\\Enterprise\\04\\demos\\start\\blazor-enterprise\\NuGet": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://pkgs.dev.azure.com/garyfail/pluralsight/_packaging/Gary_Feed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
